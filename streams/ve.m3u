@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="AguacateTV.ve",Aguacate TV (1080p)
-https://streamtv.intervenhosting.net:3040/hybrid/play.m3u8
+https://streamtv.intervenhosting.net:3040/live/aguacatetvbqtolive.m3u8
 #EXTINF:-1 tvg-id="AnzoateguiTV.ve",Anzoátegui TV (360p)
 https://vcp2.myplaytv.com/anzoateguitv/anzoateguitv/playlist.m3u8
 #EXTINF:-1 tvg-id="AvilaTV.ve",Ávila TV (Caracas) (1080p) [Not 24/7]
@@ -23,7 +23,7 @@ https://vcp.myplaytv.com/cantinatv/cantinatv/playlist.m3u8
 #EXTINF:-1 tvg-id="CatatumboTV.ve",Catatumbo TV (406p)
 https://cloud.streamingconnect.tv/hls/catatumbotv/catatumbotv.m3u8
 #EXTINF:-1 tvg-id="ChivacoaTVInternacional.ve",Chivacoa TV Internacional (720p) [Not 24/7]
-https://vdo1.panelstreaming.live:3875/live/guarotvlive.m3u8
+https://vdo1.panelstreaming.live:3875/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="Colombeia.ve",Colombeia (1080p) [Not 24/7]
 #EXTVLCOPT:http-referrer=https://odysee.com/
 https://cdn.odysee.live/content/ba3d31fdf59976d63976e5a2173df36b442104ba/master.m3u8
@@ -43,7 +43,7 @@ https://vcp5.myplaytv.com/globovision/globovision/playlist.m3u8
 #EXTINF:-1 tvg-id="GlowTV.ve",Glow TV (720p) [Not 24/7]
 https://vcp7.myplaytv.com/glowtv/glowtv/playlist.m3u8
 #EXTINF:-1 tvg-id="GuaroTV.ve",Guaro TV (1080p)
-https://streamtv.intervenhosting.net:3061/hybrid/play.m3u8
+https://streamtv.intervenhosting.net:3061/live/guarotvbqtolive.m3u8
 #EXTINF:-1 tvg-id="HumorMax.ve",Humor Max (720p) [Not 24/7]
 http://vcpar.myplaytv.com/humormax/live/playlist.m3u8
 #EXTINF:-1 tvg-id="InterTV.ve",interTV (1080p)
